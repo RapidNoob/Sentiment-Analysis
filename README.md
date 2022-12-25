@@ -1,7 +1,7 @@
 # Newspaper-Sentiment-Analysis 
 
-## What is sentiment Analysis?
-    Sentiment analysis (also known as opinion mining or emotion AI) is the use of natural language processing, text analysis, computational linguistics, and           biometrics to systematically identify, extract, quantify, and study affective states and subjective information.
+### What is sentiment Analysis?
+   Sentiment analysis (also known as opinion mining or emotion AI) is the use of natural language processing, text analysis, computational linguistics, and           biometrics to systematically identify, extract, quantify, and study affective states and subjective information.
    Here I used textblob algorithum for analysis.
 
 ### Program which scrapes the News from 'The Hindu' Newspaper, and presents 3 options to the user.
